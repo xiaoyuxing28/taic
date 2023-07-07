@@ -1,12 +1,12 @@
 {
   "name": "taic",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a react library ",
   "license": "MIT",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "es"
+    "dist"
   ],
   "scripts": {
     "build": "father build",
