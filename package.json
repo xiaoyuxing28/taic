@@ -49,6 +49,14 @@
       "path": "node_modules/cz-conventional-changelog"
     }
   },
+  "dependencies": {
+    "@ant-design/icons": "^5.1.4",
+    "ahooks": "^3.7.8",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.3",
+    "recorder-core": "^1.2.23070100",
+    "tdesign-react": "^1.1.13"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.6.6",
     "@commitlint/config-conventional": "^17.6.6",
